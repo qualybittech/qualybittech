@@ -1,31 +1,30 @@
-# Welcome to My GitHub Profile
-
-👋 Hi there! I'm [Your Name], a passionate QA Automation Engineer.
+# 👋 Hi there! I'm Bharath Anandaraj, a passionate QA Automation Engineer.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 - **Programming Languages:** Python,Java,JavaScript
-- **Automation Tools:** Cypress, Selenium, Appium, Testcafe, 
+- **Automation Tools:** Cypress, Selenium, Appium, Testcafe, Restassured
 - **Automation Frameworks:** Robot, TestNG, JUnit, Cucumber
 - **Performnace Tools:** Jmeter, K6, Lighthouse
+- **Security Tools:** Buprproxy, Zap, OWASP
 - **Application monitoring:** Appdynamics, ELK
 - **CI/CD:** Jenkins, Docker, Azure Devops, GitHub Actions, Bitbucket
-- **Cloud:** AWS, Digitalocean
+- **Cloud:** AWS, Digitalocean, Browser stack, Sauce labs
 - **Other Tools:** Postman,Git, Kubernetes
-
----
+- **AI tools:** Github Copilot, OpenAI models, RAG, Open source LLM's
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=qualybittech&show_icons=true&theme=radical)
 
 ---
 
 ## 🌱 Current Learning
 
-- AI / ML learning using GenAI, LLMs, Multiagents
+- AI / ML learning using RAG, GenAI, LLMs, Multiagents
+- Effective prompting 
 - Advanced Test Automation Strategies
 - Security Testing
 
@@ -52,8 +51,8 @@
 
 ## 📫 Contact Me
 
-- **LinkedIn:** [https://www.linkedin.com/in/bharath-anandaraj/]
 - **Email:** qualybittech@gmail.com
+- **LinkedIn:** [https://www.linkedin.com/in/bharath-anandaraj/]
 
 ---
 
