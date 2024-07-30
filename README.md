@@ -28,13 +28,6 @@
 - Advanced Test Automation Strategies
 - Security Testing
 
----
-
-## 📝 Blog and Articles
-
-
----
-
 ## 👨‍💻 Projects
 
 ### Fathershop automated tests for ecommerce application
@@ -44,10 +37,10 @@
 
 ### RESTOFE automated tests for ecommerce application 
 **Description:** Automated testing for ecommerce coffechain procurment platform and implenting continous integration
-**Technologies Used:** Python, Selenium, pytest, Bitbucket pipelines
+**Technologies Used:** WebdriverIO, Javascript, nodejs, Githubactions
 **Repository Link:** https://github.com/qualybittech/wdio-restofe
 
-### CDC API tesing and Data scraping
+### CDC API testing and Data scraping
 **Description:** Testing NSW API and scraping Child development centers  
 **Technologies Used:** Python, Pandas, API testing
 **Repository Link:** https://github.com/qualybittech/cdc_data_extract
