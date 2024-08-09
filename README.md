@@ -1,19 +1,22 @@
-# 👋 Welcome! I'm Bharath Anandaraj, a passionate QA Automation Engineer.
+# 👋 Welcome! I'm Bharath Anandaraj, a passionate SDET .
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 - **Programming Languages:** Python,Java,JavaScript
-- **Automation Tools:** Cypress, Selenium, Appium, Testcafe, WebdriverIO, Postman, Restassured
-- **Automation Frameworks:** Robot, TestNG, JUnit, Cucumber
+- **AI tools:** Github Copilot, OpenAI models, Gemini, RAG, Open source LLM's, ChatGPT
+- **UI Automation Tools:** Cypress, Selenium, Appium, WebdriverIO, Testcafe
+- **API Automation Tools:** Postman, Restassured, SOAPUI
+- **Automation Frameworks:** Cucumber,Robot, Pytest, JUnit
 - **Performnace Tools:** Jmeter, K6, Lighthouse
 - **Security Tools:** Buprproxy, Zap, OWASP
 - **Application monitoring:** Appdynamics, ELK
-- **CI/CD:** Jenkins, Docker, Azure Devops, GitHub Actions, Bitbucket
-- **Cloud:** AWS, Digitalocean, Browser stack, Sauce labs
+- **CI/CD:** Jenkins, Docker, GitHub Actions, Bitbucket
+- **Cloud:** AWS,Browser stack, Sauce labs, Digitalocean
+- **Database:** SQL server, MySQL, MongoDB
+- **Test Management:** JIRA, Azure Devops, HP ALM, Bugzilla
 - **Other Tools:** Git, Kubernetes
-- **AI tools:** Github Copilot, OpenAI models, RAG, Open source LLM's
 
 ## 📈 GitHub Stats
 
@@ -45,7 +48,7 @@
 **Technologies Used:** Python, Pandas, API testing
 **Repository Link:** https://github.com/qualybittech/cdc_data_extract
 
-### Ebony mock services API
+### Ebony API mock services 
 **Description:** Project to generate mock API services for development / qa team to consume the services for testing
 **Technologies Used:** Wiremock, Docker, Java
 **Repository Link:** https://github.com/qualybittech/mock_services_wiremock_ebony
@@ -55,7 +58,7 @@
 **Technologies Used:** Java, REST Assured, Maven, Cucumber 
 **Repository Link:** https://github.com/qualybittech/backend-integration-framework
 
-### APP Square performance testing
+### APP Square Load testing
 **Description:** To perform stress testing for cusomter application to test scalability and handling varying peak loads
 **Technologies Used:** Performance testing, Jmeter
 **Repository Link:** https://github.com/qualybittech/jmeter_appsquare
@@ -66,6 +69,8 @@
 **Repository Link:** https://github.com/qualybittech/k6-performance-test
 
 
+Thanks for visiting my profile! Feel free to connect with me or check out my repositories.
+
 ---
 
 ## 📫 Contact Me
@@ -74,5 +79,3 @@
 - **LinkedIn:** https://www.linkedin.com/in/bharath-anandaraj/
 
 ---
-
-Thanks for visiting my profile! Feel free to connect with me or check out my repositories.
