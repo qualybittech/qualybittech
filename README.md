@@ -6,7 +6,7 @@
 
 - **Programming Languages:** Python,Java,JavaScript
 - **AI tools:** Github Copilot, OpenAI models, Gemini, RAG, Open source LLM's, ChatGPT
-- **UI Automation Tools:** Cypress, Selenium, Appium, WebdriverIO, Testcafe
+- **UI Automation Tools:** Playwright, Cypress, Selenium, Appium, WebdriverIO, Testcafe
 - **API Automation Tools:** Postman, Restassured, SOAPUI
 - **Automation Frameworks:** Cucumber,Robot, Pytest, JUnit
 - **Performnace Tools:** Jmeter, K6, Lighthouse
